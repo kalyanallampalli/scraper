@@ -1,0 +1,7 @@
+[Sun Jan 24 18:45:44 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 18:48:05 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 18:52:34 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 18:54:39 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 18:58:39 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 19:08:29 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /scraper
+[Sun Jan 24 19:08:35 2010] [debug] mod_deflate.c(619): [client 127.0.0.1] Zlib: Compressed 948 to 567 : URL /rails/info/properties, referer: http://localhost/
